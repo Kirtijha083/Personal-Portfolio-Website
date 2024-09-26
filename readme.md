@@ -4,21 +4,26 @@ This project is a personal portfolio website designed and developed using HTML, 
 
 # Sections
 
-- **Home:** A brief introduction and navigation to other sections of the website.
-- **About:** Details about my background, experience, and expertise in web development.
--**Skills:** A showcase of the programming languages, frameworks, and tools I am proficient in.
--**Projects:** Highlights of the key projects I have worked on, demonstrating my development capabilities.
--**Contact:** Information on how to reach out to me for opportunities or inquiries.
+1. Home: A brief introduction and navigation to other sections of the website.
+
+2. About: Details about my background, experience, and expertise in web development.
+
+3. Skills: A showcase of the programming languages, frameworks, and tools I am proficient in.
+
+4. Projects: Highlights of the key projects I have worked on, demonstrating my development capabilities.
+
+5. Contact: Information on how to reach out to me for opportunities or inquiries.
 
 # Features
--**Animations:** Engaging animations are used to enhance the user experience and make the portfolio interactive.
--**Interactive Elements:** Smooth scrolling, hover effects, and button animations create an intuitive navigation experience.
+1. Animations: Engaging animations are used to enhance the user experience and make the portfolio interactive.
+
+2. Interactive Elements: Smooth scrolling, hover effects, and button animations create an intuitive navigation experience.
 
 # Technologies Used
 
--**HTML5:** Provides the structure of the website.
--**CSS3:** Used for styling and layout, ensuring a visually appealing design.
--**JavaScript:** Implements interactive elements and animations for a dynamic user experience.
+1. HTML5: Provides the structure of the website.
+2. CSS3: Used for styling and layout, ensuring a visually appealing design.
+3. JavaScript: Implements interactive elements and animations for a dynamic user experience.
 
 # How to Use
 1. Clone or download the repository.
